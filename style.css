@@ -1,0 +1,43 @@
+.btn {
+    color: #b7e4cF;
+    background: transparent;
+    border: 7px solid #b7e4cF;
+    border-radius: 6px;
+    text-align: center;
+    padding: 16px 32px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 25px;
+    max-width: 20%;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+.btn:hover{
+    background-color: #b7e4cF;
+    color: white;
+}
+
+
+#Bloomberg {
+    font-family: 'Lacquer', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px, 10px;
+}
+
+#Warren {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px, 10px;
+}
+
+#iframe { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
